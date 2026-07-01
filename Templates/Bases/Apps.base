@@ -1,0 +1,7 @@
+filters:
+  and:
+    - categories.contains(link("Apps"))
+    - '!file.name.contains("Template")'
+views:
+  - type: table
+    name: Table

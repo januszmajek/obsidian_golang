@@ -1,0 +1,20 @@
+filters:
+  and:
+    - tags.contains("0🌲")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Name
+  note.created:
+    displayName: Created
+views:
+  - type: table
+    name: Evergreen
+    order:
+      - file.name
+      - created
+    sort:
+      - property: created
+        direction: DESC
+    columnSize:
+      file.name: 567

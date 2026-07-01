@@ -1,0 +1,29 @@
+filters:
+  and:
+    - categories.contains(link("Wiedza komputerowa"))
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Doc name
+  Created time:
+    displayName: Created time
+  Category:
+    displayName: Category
+  Last updated time:
+    displayName: Last updated time
+views:
+  - type: table
+    name: Table View
+    groupBy:
+      property: created
+      direction: DESC
+    order:
+      - file.name
+      - created
+      - Last edited time
+      - tags
+    sort: []
+    columnSize:
+      file.name: 307
+      note.Category: 203
+      note.Created time: 157

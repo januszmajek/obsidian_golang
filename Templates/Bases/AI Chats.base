@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - list(categories).contains(link("AI Chats"))
+        - '!file.fullname.contains("Template")'
+    sort:
+      - property: published
+        direction: DESC

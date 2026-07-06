@@ -1,7 +1,8 @@
 ---
 categories:
   - "[[Learnings]]"
-created: {{date}}
+created:
+  "{ date }":
 area: []
 tech: []
 lang: []

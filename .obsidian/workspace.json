@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "W1 2026-07.md",
+                "file": "Daily/W2 2026-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W1 2026-07"
+              "title": "W2 2026-07"
             }
           }
         ]
@@ -184,14 +184,19 @@
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
       "zk-prefixer:Create new unique note": false,
-      "audio-recorder:Start/stop recording": false,
-      "terminal:Open terminal": false
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "f8dfa51f85516cd9",
   "lastOpenFiles": [
-    "W1 2026-07.md",
-    "W2 2026-07.md",
+    "Daily/W1 2026-07.md",
+    "Clippings/business-process-flow.md",
+    "Clippings/database-er-diagram.md",
+    "Clippings/How I use Obsidian.md",
+    "Daily/W2 2026-07.md",
+    "Daily/2026-07-01.md",
+    "Daily/2026-07.md",
+    "wms database diagrams.md",
     "Templates/Email Template.md",
     "Templates/Place Type Template.md",
     "Templates/Course Template.md",
@@ -205,8 +210,6 @@
     "obsidian bases view.md",
     "Learnings.md",
     "Rozmowa GO.md",
-    "Daily/2026-07.md",
-    "Daily/2026-07-01.md",
     "Daily",
     "Attachments/Pasted image 20260701133410.png",
     "Attachments",
@@ -217,10 +220,6 @@
     "Templates/Learning Note Template.md",
     "Untitled",
     "Templates/Daily Note Template.md",
-    "Templates/Meeting Type Template.md",
-    "Templates/Monthly Note Template.md",
-    "2023-08.md",
-    "Templates/Meetings List Template.md",
-    "Templates/Meeting Template.md"
+    "Templates/Meeting Type Template.md"
   ]
 }

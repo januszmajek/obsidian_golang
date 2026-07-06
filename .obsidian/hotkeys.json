@@ -39,5 +39,15 @@
       "key": "D"
     }
   ],
-  "editor:delete-paragraph": []
+  "editor:delete-paragraph": [],
+  "terminal:find-in-terminal": [],
+  "terminal:close-terminal": [],
+  "terminal:toggle-focus-on-last-terminal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ]
 }

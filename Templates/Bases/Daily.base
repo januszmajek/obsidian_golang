@@ -29,7 +29,7 @@ views:
       - tags
     sort: []
     columnSize:
-      file.name: 287
+      file.name: 354
       note.created: 128
       note.categories: 119
   - type: table

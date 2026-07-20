@@ -9,6 +9,8 @@ loc:
 people: []
 topics: []
 project:
+tags:
+  - note
 ---
 
 ## Purpose

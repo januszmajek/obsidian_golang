@@ -4,38 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c61cd0e0604c1e41",
+        "id": "82054aab24a7abcd",
         "type": "tabs",
         "children": [
           {
-            "id": "de146f38e26ce337",
+            "id": "925ab02a2a8ea556",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/PostgreSQL WSL Podman setup.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "PostgreSQL WSL Podman setup"
+              "title": "New tab"
             }
           },
           {
-            "id": "aeb0f9aad8156951",
+            "id": "0096f497fa7b6cfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/PostgreSQL WSL Podman setup.md",
+                "file": "Clippings/Docker Engine WSL setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PostgreSQL WSL Podman setup"
+              "title": "Docker Engine WSL setup"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,10 +198,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "de146f38e26ce337",
+  "active": "0096f497fa7b6cfd",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Clippings/PostgreSQL WSL Podman setup cap laptop.md",
+    "Clippings/Docker Engine WSL setup.md",
+    "Clippings/Docker%20Engine%20WSL.md",
+    "Cap Ubuntu-26.04 credentials.md",
     "Clippings/PostgreSQL WSL Podman setup.md",
+    "post2.md",
+    "Untitled.md",
     "podman commands.md",
     "SKILL.md",
     "Clippings/golang-tutor/SKILL og.md",
@@ -227,11 +229,6 @@
     "Clippings/database-er-diagram.md",
     "Clippings/How I use Obsidian.md",
     "Daily/2026-07-01.md",
-    "Daily/2026-07.md",
-    "wms database diagrams.md",
-    "Templates/Email Template.md",
-    "Templates/Place Type Template.md",
-    "Templates/Course Template.md",
     "Templates/Bases/Daily.base",
     "Attachments/Learning Go_ An Idiomatic Approach to Real-world Go Jon Bodner.pdf",
     "Daily",
